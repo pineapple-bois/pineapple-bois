@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hi there, I'm Ian Wood 👋
+
+- 🎓 Studying for BSc Maths & Physics with the Open University
+- 🌱 Learning Python and Java
+- ⚡ Fun fact: I have 15 years experience as a chef!
 
 <!--
 **pineapple-bois/pineapple-bois** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
