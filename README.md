@@ -2,11 +2,7 @@
 
 - 🎓 Studying for BSc Maths & Physics with the Open University
 - 🌱 Learning Python and Java
-- ⚡ Fun fact: I have over 15 years experience as a chef!
-
-### 📈 My GitHub Stats:
-
-![pineapple-bois' GitHub stats](https://github-readme-stats.vercel.app/api?username=pineapple-bois&show_icons=true&theme=radical)
+- ⚡ I have over 15 years experience as a chef!
 
 <!--
 **pineapple-bois/pineapple-bois** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
