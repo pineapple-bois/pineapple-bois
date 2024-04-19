@@ -1,4 +1,4 @@
-## Hi there, I'm Ian 👋
+## Hi there, I'm Woodie 👋
 
 - 🎓 Studying for BSc Maths & Physics with the Open University
 - 🌱 Learning Python and Java
