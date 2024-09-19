@@ -1,7 +1,7 @@
 ## Hi there, I'm Woodie 👋
 
 - 🎓 Studying for BSc Maths & Physics with the Open University
-- 🌱 Learning Python and Java
+- 🌱 Learning Python and Building Pipelines...
 - ⚡ I have over 15 years experience as a chef!
 
 <!--
