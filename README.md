@@ -1,8 +1,9 @@
 ## Hi there, I'm Woodie 👋
 
-- 🎓 Studying for BSc Maths & Physics with the Open University
-- 🌱 Learning Python and Building Pipelines...
-- ⚡ I have over 15 years experience as a chef!
+- MSc Complex Systems Modelling — King’s College London (Graduation 2026)
+- BSc Mathematics & Physics — The Open University (First-class honours)
+- Specialising in Python-based analytical pipelines & interactive applications
+- Interests: Dash, data engineering, scientific computing, optimisation
 
 <!--
 **pineapple-bois/pineapple-bois** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
