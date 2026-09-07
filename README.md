@@ -1,4 +1,4 @@
-## Hi there, I'm Woodie 👋
+## Hi there, I'm Ian 👋
 
 ### 🎓 Education
 - MSc Complex Systems Modelling — King’s College London (Graduation 2026)
